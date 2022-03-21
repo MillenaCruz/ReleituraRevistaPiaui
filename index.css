@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+ .barradalogo{
+     background-color: FFFFFF;
+     width: 100%;
+     display: flex;
+     justify-content: center;
+ }
+
+ .logoimagem{
+     padding-bottom: 10px;
+ }
+
+ .barramenu{
+     background-color: #F15B40;  
+     width: 100%;
+     display: flex;
+     justify-content: space-evenly;
+ }
+
+ .barramenu>a{
+     color: #FFFFFF;
+     font-family: Heebo;
+     text-decoration: none;
+     font-weight:500;
+     font-size: 1em;
+ }
+
