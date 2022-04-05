@@ -32,3 +32,65 @@
      margin: auto;
      border-radius: 40%;
  }
+
+.materias{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom:40px;
+    display: flex;
+    justify-content: center;
+}
+
+.borda-direita{
+    border-width: 1px;
+    border-color: #F15B40;
+    border-style: hidden hidden hidden hidden;
+
+}
+
+.borda-esquerda{
+    border-width: 1px;
+    border-color: #F15B40;
+    border-style: hidden solid hidden hidden;
+}
+
+ .coluna{
+     width:40%;
+ }
+
+ .titulo{
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    padding: 10px;
+    color: #000000;
+
+    border-width: 1px;
+    border-color: #F15B40;
+    border-style: solid hidden solid hidden;
+    margin-bottom: 10px;
+ }
+
+ .card-noticia{
+     width: 90%;
+     margin: auto;
+ }
+
+ .imagem>img{
+     width: 100%;
+     height: 100%;
+
+ }
+
+ a {
+     text-decoration: none;
+ }
+
+ 
+
+
