@@ -81,6 +81,17 @@
      margin: auto;
  }
 
+ .colunista{
+     display: flex;
+     justify-content: left;
+ }
+
+ .colunista>.texto{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+ }
+
  .imagem>img{
      width: 100%;
      height: 100%;
@@ -91,6 +102,10 @@
      text-decoration: none;
  }
 
+ .mais{
+     display: flex;
+     justify-content: center;
+ }
  
 
 
